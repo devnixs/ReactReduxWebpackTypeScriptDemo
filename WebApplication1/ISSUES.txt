@@ -1,0 +1,4 @@
+﻿1. Had to move all webpack etc etc into wwwroot
+2. Cant seem to load bootstrap css in Index.jsx
+3. Scss is not working
+4. SourceMap doesnt seem to working when using 'source-map'
