@@ -11,9 +11,10 @@ import {
     MenuItem,
     Button
 } from "react-bootstrap";
-import { Router, Route, hashHistory } from 'react-router'
+import { Router, Route, hashHistory } from 'react-router';
 import { Details } from "./Details";
 import { Orders } from "./Orders";
+import "../scss/index.scss";
 
 
 class MainNav extends React.Component<undefined, undefined> {
